@@ -63,4 +63,5 @@
 - Visualization → Power BI  
 
 ##  Dashboard Preview  
-![Dashboard](Dashboard.png)  
+![Dashboard Preview](image/Dashboard.png)
+
