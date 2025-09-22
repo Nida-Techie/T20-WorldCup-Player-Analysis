@@ -6,7 +6,7 @@
   - Runs, Wickets, Strike Rate, Economy  
   - Player comparisons  
   - Filters (Team, Role, Year/Span)  
- ---
+ 
 ### 1. Data Collection (Web Scraping)  
 - Source: ESPN Cricinfo  
 - Tool: Bright Data Web Scraper  
@@ -56,14 +56,11 @@
 - **Table** → Player Rating Comparison  
 - **Filters / Slicers** → Team, Span, Role  
 
----
 ## Tech Stack  
 - Web Scraping → Bright Data  
 - Data Cleaning → Python (Pandas)  
 - Data Transformation → Power BI (Power Query + DAX)  
 - Visualization → Power BI  
-
----
 
 ##  Dashboard Preview  
 ![Dashboard](Dashboard.png)  
