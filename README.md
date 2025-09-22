@@ -1,17 +1,12 @@
-# 🏏 T20 World Cup Player Performance Dashboard  
+# T20 World Cup Player Performance Dashboard  
 
-## 📌 Problem Statement  
+## Problem Statement  
 - Analyze T20 World Cup player performance data  
 - Build a dashboard to show:  
   - Runs, Wickets, Strike Rate, Economy  
   - Player comparisons  
   - Filters (Team, Role, Year/Span)  
-- Select **Dream Team XI** based on insights  
-
----
-
-## 🔹 Steps I Followed  
-
+ ---
 ### 1. Data Collection (Web Scraping)  
 - Source: ESPN Cricinfo  
 - Tool: Bright Data Web Scraper  
@@ -45,7 +40,7 @@
   - Players ↔ Most Wickets  
   - Players ↔ Best Economy  
   - Players ↔ Highest Strike Rate  
-- DAX Measures created:  
+**- DAX Measures created: ** 
   - Total Runs  
   - Total Wickets  
   - Average Strike Rate  
@@ -62,16 +57,7 @@
 - **Filters / Slicers** → Team, Span, Role  
 
 ---
-
-## 📊 Final Insights  
-- Identified consistent top performers  
-- Compared batsmen vs bowlers  
-- Selected **Best XI Dream Team**  
-- Fun theme → Team plays against aliens 😅  
-
----
-
-## 🛠 Tech Stack  
+## Tech Stack  
 - Web Scraping → Bright Data  
 - Data Cleaning → Python (Pandas)  
 - Data Transformation → Power BI (Power Query + DAX)  
@@ -79,5 +65,5 @@
 
 ---
 
-## 📷 Dashboard Preview  
-![Dashboard](dashboard.png)  
+##  Dashboard Preview  
+![Dashboard](Dashboard.png)  
